@@ -4,11 +4,11 @@
  
 ---
 - [github](https://github.com/sedighedaraeizade)
-- [PNU_3991_AR]
-- [resume](https://bahssanbeygi.github.io/resume/)
-- [SOP](https://github.com/bahssanbeygi/SOP) 
-- [javascript Certificate](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/JSceritificate.pdf)
-- [jlord patchwork](patchwork.jpg)
+- [PNU_3991_AR](https://github.com/sedighedaraeizade/PNU-3991-AR/)
+- [resume]()
+- [SOP]() 
+- [javascript Certificate]()
+- [jlord patchwork]()
   
 ------------------
 
