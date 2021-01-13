@@ -76,7 +76,13 @@
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته<br>دکتر رضوی</th>
     <th>چهارشنبه</th>
   </tr>
- 
+ <tr>
+  <th ></th>
+  <th ><a></a></th>
+  <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
+    <th>پنج شنبه</th>
+  </tr>
 </table>
+</div>
 
 --------------
