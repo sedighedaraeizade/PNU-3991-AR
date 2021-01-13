@@ -49,9 +49,14 @@
     1. [_ASE-13_صدیقه دارایی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/13_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
     1. [_ASE-14_علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/14_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
 -----------------------
-
+<div align="center">
+ 
 ## روز و ساعت ارائه دروس
 
+</div>
+
+<div dir="ltr">
+ 
 <table style="width:100%">
   <tr>
     <th>18-20</th>
@@ -71,6 +76,7 @@
     <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms" >الگوریتم پیشرفته<br>دکتر رضوی</th>
     <th>چهارشنبه</th>
   </tr>
+ 
 </table>
 
 --------------
