@@ -16,11 +16,11 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_CV_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/General/SD_CV_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی بخش عمومی](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/_General/SZ_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SD_AdvancedSoftwareEngineer_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
 ------------------
@@ -30,7 +30,7 @@
 
 [1115025 80_166   الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/sedighedaraeizade/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
 <br>
 [1115023_01_166 سیستم عامل پیشرفته ]
 <br>
@@ -43,7 +43,7 @@
 
 1. G-A01
 
-    1. [_ASE-05-فهيمه ابوحمزه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/05_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)
+    1. [_ASE-05-زهرا باقری نسب](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/05_%D9%81%D9%87%D9%8A%D9%85%D9%87%20%D8%A7%D8%A8%D9%88%D8%AD%D9%85%D8%B2%D9%87)
     1. [_ASE-07_مرضیه بهالو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/07_%D8%A7%D9%85%D9%8A%D8%AF%20%D8%A7%D9%83%D8%A8%D8%B1%D8%B2%D8%A7%D8%AF%D9%87) 
     1. [_ASE-08_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/08_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%AE%D9%88%D8%A7%D8%AC%D9%87%20%DA%AF%D9%8A)
     1. [_ASE-13_صدیقه دارایی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/13_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
