@@ -23,9 +23,6 @@
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SZ_AdvancedSoftwareEngineering_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
-# تمرین ها
-
-# گروه ها
 ------------------
 ## Winter Semester Courses 1399/2020
 
@@ -41,6 +38,10 @@
 <br>
 
 --------------
+
+##گروه های درسی
+
+
 
 ## روز و ساعت ارائه دروس
 
