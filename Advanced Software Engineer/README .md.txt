@@ -2,11 +2,12 @@
 <div dir="rtl">
   
   ## صدیقه دارایی زاده
-- [PNU_3991_AR](https://github.com/saharzeinivand/PNU_3991_AR)
-- [Resume](https://saharzeinivand.github.io) 
-- [SOP](https://saharzeinivand.github.io/Sop/)
-- [Certificates](https://saharzeinivand.github.io/Certificates/)
-- [GitHub](https://github.com/saharzeinivand)
+- [github](https://github.com/sedighedaraeizade)
+- [PNU_3991_AR](https://github.com/sedighedaraeizade/PNU-3991-AR/)
+- [Resume](https://sedighedaraeizade.github.io/Resume/)
+- [SOP](https://sedighedaraeizade.github.io/Sop/) 
+- [javascript Certificate](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/cert-1024-20742831.pdf)
+- [jlord patchwork](patchwork.jpg)
 
 -----------------------------
 ## دروس ارشد  
