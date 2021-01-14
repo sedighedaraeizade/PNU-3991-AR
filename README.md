@@ -28,9 +28,9 @@
 
 ## فهرست دروس کارشناسی ارشد
 
-[1115025 80_3 الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
+[1115025 80 3 الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
-[1115026_01	مهندسي نرم افزارپيشرفته	3](https://github.com/sedighedaraeizade/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01 مهندسي نرم افزارپيشرفته	3](https://github.com/sedighedaraeizade/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
 <br>
 [1115023_01_3 سیستم عامل پیشرفته ]
 <br>
@@ -81,7 +81,6 @@
   <th ><a></a></th>
   <th ><a></a></th>
   <th ><a></a></th>
- <th ><a></a></th>
   <th ><a></a></th> 
   <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
