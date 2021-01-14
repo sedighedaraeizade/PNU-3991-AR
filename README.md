@@ -30,7 +30,7 @@
 
 [1115025_80_ الگوریتم پیشرفته ](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms)
 <br>
-[1115026_01_مهندسي نرم افزارپيشرفته	](https://github.com/sedighedaraeizade/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[1115026_01_مهندسي نرم افزارپيشرفته	](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer)
 <br>
 [1115023_01_ سیستم عامل پیشرفته ]
 <br>
