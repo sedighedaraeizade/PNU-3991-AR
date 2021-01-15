@@ -23,6 +23,13 @@
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SD_AdvancedSoftwareEngineer_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/sedighedaraeizade/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SD_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
+
+# تمرین ها
+1. [G-A03]
+    1. [Edmonds-karp]
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
+    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
+ 
 ------------------
 ## Winter Semester Courses 1399/2020
 
@@ -48,6 +55,16 @@
     1. [_ASE-08_بهرام بهنژاد](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/08_%D8%B9%D9%84%D9%8A%D8%B1%D8%B6%D8%A7%20%D8%AE%D9%88%D8%A7%D8%AC%D9%87%20%DA%AF%D9%8A)
     1. [_ASE-13_صدیقه دارایی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/13_%D8%B3%D8%AD%D8%B1%20%D8%B2%D9%8A%D9%86%D9%8A%20%D9%88%D9%86%D8%AF%D9%85%D9%82%D8%AF%D9%85)       
     1. [_ASE-14_علیرضا رزمجو](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering/1115026_01/14_%D9%83%D9%84%D8%AB%D9%88%D9%85%20%D9%85%D8%AD%D9%85%D8%AF%D9%8A)
+    
+2. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
+
+    1. [_AdvAlg_05_بهناز حسن بيگي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/05_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%AD%D8%B3%D9%86%20%D8%A8%D9%8A%DA%AF%D9%8A)    
+    1. [_AdvAlg_28_نرجس ميرسالاري](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/28_%D9%86%D8%B1%D8%AC%D8%B3%20%D9%85%D9%8A%D8%B1%D8%B3%D8%A7%D9%84%D8%A7%D8%B1%D9%8A)    
+    1. [_AdvAlg_06_آرزو درويشي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/06_%D8%A7%D8%B1%D8%B2%D9%88%20%D8%AF%D8%B1%D9%88%D9%8A%D8%B4%D9%8A)    
+    1. [_AdvAlg_03_محيا بهمني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/03_%D9%85%D8%AD%D9%8A%D8%A7%20%D8%A8%D9%87%D9%85%D9%86%D9%8A)    
+    1. [_AdvAlg_04_پروين حاجت پوربيرگاني](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/04_%D9%BE%D8%B1%D9%88%D9%8A%D9%86%20%D8%AD%D8%A7%D8%AC%D8%AA%20%D9%BE%D9%88%D8%B1%D8%A8%D9%8A%D8%B1%DA%AF%D8%A7%D9%86%D9%8A)
+    1. [_AdvAlg_16_نرگس مرادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80/16_%D9%86%D8%B1%DA%AF%D8%B3%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)   
+    1. [ AdvAlg 25 صدیقه دارایی زاده](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01/05_%D8%A8%D9%87%D9%86%D8%A7%D8%B2%20%D8%AD%D8%B3%D9%86%20%D8%A8%D9%8A%DA%AF%D9%8A)
 -----------------------
 <div align="center">
  
