@@ -23,13 +23,6 @@
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU_3991_AR/blob/main/AdvancedSoftwareEngineering/SD_AdvancedSoftwareEngineer_CheckList_AR_3991.pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/sedighedaraeizade/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SD_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 
-
-# تمرین ها
-1. [G-A03]
-    1. [Edmonds-karp]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/bahssanbeygi/ford-fulkerson)
- 
 ------------------
 ## Winter Semester Courses 1399/2020
 
