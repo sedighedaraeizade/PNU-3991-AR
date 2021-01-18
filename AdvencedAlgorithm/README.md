@@ -19,9 +19,10 @@
     1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Ford-fulkerson](https://github.com/sedighedaraeizade/ford-fulkerson)
 
+
   #تمرین فردی
-1.[G-A03]
-   1.[-----]
+1. [G-A03]
+   1. [-----]
    
 ---------------   
 
