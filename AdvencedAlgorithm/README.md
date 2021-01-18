@@ -17,7 +17,7 @@
 1. [G-A03]
     1. [......]
     1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
-    1. [Ford-fulkerson](https://github.com/sedighedaraeizade/ford-fulkerson)
+    1. [Ford-fulkerson](https://github.com/mirsalarinarjes/ford-fulkerson)
 ---------------
    ##گروه
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
