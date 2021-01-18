@@ -20,7 +20,7 @@
     1. [Ford-fulkerson](https://github.com/sedighedaraeizade/ford-fulkerson)
 
 
-  #تمرین فردی
+  تمرین فردی
 1. [G-A03]
    1. [-----]
    
