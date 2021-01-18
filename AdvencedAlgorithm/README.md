@@ -13,12 +13,16 @@
 - [javascript Certificate](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/cert-1024-20742831.pdf)
 - [jlord patchwork](patchwork.jpg)
 ---------------
-  # تمرین ها
+  # تمرینات گروهی 
 1. [G-A03]
-    1. [......]
-    1. [Binary search tree](https://www.aparat.com/v/mE1XP) and [Bubble Sort](https://aparat.com/v/jk90Q)
+    1. [Bubble Sort](https://aparat.com/v/jk90Q) 
+    1. [Binary search tree](https://www.aparat.com/v/mE1XP)
     1. [Ford-fulkerson](https://github.com/sedighedaraeizade/ford-fulkerson)
 ---------------
+#تمرین فردی
+1.[G-A03]
+   1.[-----]
+
    ##گروه
 1. [G-A03](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
