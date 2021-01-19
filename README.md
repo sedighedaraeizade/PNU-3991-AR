@@ -22,7 +22,8 @@
 ##  بخش دروس ارشد
 - [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/Advanced%20Software%20Engineer/SD_AdvancedSoftwareEngineering_CheckList_AR_3991%20(3).pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/AdvencedAlgorithm/SD_AdvancedAlgorithms_CheckList_AR_3991%20(1).pdf)
-)------------------
+
+------------------
 ## Winter Semester Courses 1399/2020
 
 ## فهرست دروس کارشناسی ارشد
