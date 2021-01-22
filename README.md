@@ -20,7 +20,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/General/SD_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/Advanced%20Software%20Engineer/SD_AdvancedSoftwareEngineering_CheckList_AR_3991%20(4).pdf)
+- [خلاصه ارزیابی درس_مهندسی نرم افزار پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/Advanced%20Software%20Engineer/SD_AdvancedSoftwareEngineering_CheckList_AR_3991%20(7).pdf)
 - [خلاصه ارزیابی درس_طراحی الگوریتم پیشرفته](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/AdvencedAlgorithm/SD_AdvancedAlgorithms_CheckList_AR_3991%20(1).pdf)
 
 ------------------
