@@ -32,6 +32,8 @@
 <br>
 [1115026_01_مهندسي نرم افزارپيشرفته	](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer)
 <br>
+ [1115282_30 متدولوژی ایجاد نرم افزار ](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main                       )
+ <br>
 [1115023_01_ سیستم عامل پیشرفته ]
 <br>
 [1115024_71_ پایگاه داده پیشرفته ]
