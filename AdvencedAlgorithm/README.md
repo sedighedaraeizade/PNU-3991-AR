@@ -22,7 +22,7 @@
 ----------------
   تمرین فردی
 1. [G-A03]
-   1. [Robin carp](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/00_%D8%B5%D8%AF%D9%8A%D9%82%D9%87%20%D8%AF%D8%A7%D8%B1%D8%A7%D9%8A%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
+   1. [Robin carp](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/AdvencedAlgorithm/robin%20karp.pptx)
    2. [Belman ford](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/00_%D8%B5%D8%AF%D9%8A%D9%82%D9%87%20%D8%AF%D8%A7%D8%B1%D8%A7%D9%8A%D9%8A%20%D8%B2%D8%A7%D8%AF%D9%87)
 ---------------   
 
