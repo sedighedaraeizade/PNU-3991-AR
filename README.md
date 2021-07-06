@@ -32,7 +32,7 @@
 <br>
 [1115026_01_مهندسي نرم افزارپيشرفته	](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer)
 <br>
- [1115282_30 متدولوژی ایجاد نرم افزار ](https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main                       )
+ [1115282_30 متدولوژی ایجاد نرم افزار ](https://https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/sofron%20project.pdf)          
  <br>
 [1115023_01_ سیستم عامل پیشرفته ]
 <br>
