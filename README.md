@@ -95,9 +95,8 @@
   <th ><a></a></th>
   <th ><a></a></th> 
   <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering#TOC">مهندسی نرم افزار پیشرفته</a></th>
+   <th>متدولوژی ایجاد نرم افزار</th>
     <th>پنج شنبه</th>
-  <th></th>
-  <th>متدولوژی ایجاد نرم افزار</th>
   </tr>
 </table>
 </div>
